@@ -10,7 +10,7 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hallo ik ben Jan, hier ben ik dan");
+        System.out.println("Hallo ik ben Geert");
     }
     
 }
